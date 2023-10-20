@@ -17,7 +17,6 @@
 		<maven.compiler.source>8</maven.compiler.source>
 		<maven.compiler.target>8</maven.compiler.target>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-		<library.poi.version>4.1.2</library.poi.version>
 		<library.junit.version>5.9.2</library.junit.version>
 	</properties>
 
@@ -35,19 +34,6 @@
 			<artifactId>junit-jupiter-engine</artifactId>
 			<version>${library.junit.version}</version>
 			<scope>test</scope>
-		</dependency>
-
-		<!-- Apache POI -->
-		<dependency>
-			<groupId>org.apache.poi</groupId>
-			<artifactId>poi</artifactId>
-			<version>${library.poi.version}</version>
-		</dependency>
-
-		<dependency>
-			<groupId>org.apache.poi</groupId>
-			<artifactId>poi-ooxml</artifactId>
-			<version>${library.poi.version}</version>
 		</dependency>
 	</dependencies>
 
