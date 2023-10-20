@@ -2,7 +2,7 @@
 
 ## Description
 
-This is Java library written using the Maven file structure to validate commom verifications such as validating if a file exists or not and get the file extension value.
+This is Java library written using the Maven file structure to validate common verifications such as validating if a file exists or not and get the file extension value.
 
 ## Usage
 
