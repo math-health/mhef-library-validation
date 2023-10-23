@@ -7,7 +7,7 @@ import static org.junit.jupiter.api.Assertions.*;
 
 /**
  * @author Henrik Beck
- * @version 0.0.1
+ * @version 0.0.2
  */
 class ValidationFileTest {
 	public static String projectRootPath = "";
@@ -21,7 +21,7 @@ class ValidationFileTest {
 	public static String pathRelativeXlsx = "";
 
 	@BeforeAll
-	static void aaa() {
+	static void loadVariables() {
 		projectRootPath = System.getProperty("user.dir");
 
 //		pathRelativeCsv = "/assets/data/file-example-1MB.csv";
