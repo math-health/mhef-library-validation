@@ -1,9 +1,5 @@
 package com.mhef.library.validation.utils;
 
-/**
- * @author Henrik Beck
- * @version 0.0.2
- */
 import java.io.IOException;
 
 // System.out.println("PDF converted to HTML successfully!");
@@ -11,10 +7,9 @@ import java.io.IOException;
 
 /**
  * @author Henrik Beck
- * @version 0.0.2
+ * @version 0.0.3
  *
  * @todo Fix the JavaDoc.
- * @todo Migrate this class to MHEF - Validation library.
  */
 public class MessageDisplay {
 	/**

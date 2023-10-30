@@ -1,4 +1,6 @@
 organizing/
+docs/diagrams.mdj
+docs/uml/
 
 target/
 !.mvn/wrapper/maven-wrapper.jar
