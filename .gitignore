@@ -62,3 +62,13 @@ buildNumber.properties
 .project
 # JDT-specific (Eclipse Java Development Tools)
 .classpath
+src/main/java/com/mhef/library/validation/conversions/ConversionStringPattern.java
+src/main/java/com/mhef/library/validation/exceptions/ExceptionEmptyArray.java
+src/main/java/com/mhef/library/validation/exceptions/ExceptionEmptyNumber.java
+src/main/java/com/mhef/library/validation/exceptions/ExceptionEmptyList.java
+src/main/java/com/mhef/library/validation/filters/FilterFinderHtml.java
+src/main/java/com/mhef/library/validation/filters/FilterFinderPattern.java
+src/main/java/com/mhef/library/validation/filters/FilterFinderRaw.java
+src/main/java/com/mhef/library/validation/views/ViewArray.java
+src/main/java/com/mhef/library/validation/views/ViewArrayList.java
+src/main/java/com/mhef/library/validation/views/ViewHashMap.java
