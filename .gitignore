@@ -72,3 +72,6 @@ src/main/java/com/mhef/library/validation/filters/FilterFinderRaw.java
 src/main/java/com/mhef/library/validation/views/ViewArray.java
 src/main/java/com/mhef/library/validation/views/ViewArrayList.java
 src/main/java/com/mhef/library/validation/views/ViewHashMap.java
+/src/main/java/com/mhef/library/validation/objects/ObjectPairStringDouble.java
+/src/main/java/com/mhef/library/validation/objects/ObjectPairStringInteger.java
+/src/main/java/com/mhef/library/validation/objects/ObjectPairStringString.java
